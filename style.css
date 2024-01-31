@@ -46,6 +46,9 @@ padding-top: 20px;
 box-shadow: 10px 10px 50px black;
 cursor: pointer;
 color: white;
+display: flex;
+justify-content: center;
+
 
 }
 li:hover{
